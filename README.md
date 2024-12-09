@@ -3,7 +3,7 @@ this is a project that i've worked on, called SOHO. this project is for connecti
 
 I’ve created a SOHO using the Application of CISCO-TRACER 
 
-Using the cisco tracer i was able to make a small LAN for a small office area, making them connect with each other and become active. 
+Using the cisco tracer i was able to make a small LAN for a small office area, making them connect with each other and making them become active. 
 
 This Picture shows that all of the device that is connected from the switch is connected and working and hasn’t failed or had any error. 
 
